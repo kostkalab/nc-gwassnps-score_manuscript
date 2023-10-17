@@ -1,0 +1,10 @@
+Running:  
+	match_snps_tss.py on 2022-05-09 16:52:51.882950
+Parameters:
+	input_snps_file:  ../input_GWAS_catalog_filtered_cutoff100.txt
+	num_matches_requested:  100
+	r2_for_ld_buddies:  friends_ld05
+	output_dir:  output/GWAS_catalog_filtered_cutoff100_tssonly_matched_snps_for_input_snps
+>>> Insufficient Match Percentage: 0.003868322308614754
+>>> Median Match Size Percentage: 45.0
+Done! Took 99.43 minutes
